@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
+title: Learning 2 Use
+url: https://learning2use.github.io
 baseurl:
 google_analytics_key:
 
@@ -14,7 +14,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Cause Template
+  name: Learning 2 Use
   links:
     - https://github.com/CloudCannon/cause-jekyll-template
 
@@ -71,3 +71,4 @@ _options:
   newsletter_background_image:
     width: 1880
     height: 1880
+
